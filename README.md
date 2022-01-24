@@ -10,12 +10,10 @@ You can find our labeled data in the data directory and the lexicons in the lexi
 @inproceedings{misogynoir,
   title = {Misogynoir: Public Online Response Towards Self-Reported Misogynoir},
   author = {Kwarteng, Joseph; Coppolino Perfumi, Serena; Farrell, Tracie; Fernandez, Miriam}, 
-  booktitle = {Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining},
+  booktitle = {ASONAM '21: Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining},
   series = {ASONAM '21},
   year = {2021},
   location = {Hague, Netherlands},
-  pages = {228-235}
+  pages = {228-235},
+  publisher = {Association for Computing Machinery, New York, NY, United States}
   }
-
-
-
