@@ -1,5 +1,5 @@
 # Misogynoir: Public Online Response Towards Self-Reported Misogynoir 
-Repository for Kwarteng, Joseph; Coppolino Perfumi, Serena; Farrell, Tracie and Fernandez, Miriam. 2021. "Misogynoir: Public Online Response Towards Self-Reported Misogynoir" ASONAM 2021. You read the paper [here](http://oro.open.ac.uk/79929/)
+Repository for Kwarteng, Joseph; Coppolino Perfumi, Serena; Farrell, Tracie and Fernandez, Miriam. 2021. "Misogynoir: Public Online Response Towards Self-Reported Misogynoir" ASONAM 2021. You read the paper [here](https://dl.acm.org/doi/10.1145/3487351.3488342)
 
 WARNING: The data and lexicons contain content that is racist, sexist and offensive in many other ways.
 
