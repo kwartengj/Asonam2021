@@ -7,13 +7,10 @@ You can find our labeled data in the data directory and the lexicons in the lexi
 
 ***Please cite our paper in any published work that uses any of these resources.***
 ~~~
-@inproceedings{misogynoir,
-  title = {Misogynoir: Public Online Response Towards Self-Reported Misogynoir},
-  author = {Kwarteng, Joseph; Coppolino Perfumi, Serena; Farrell, Tracie; Fernandez, Miriam}, 
-  booktitle = {ASONAM '21: Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining},
-  series = {ASONAM '21},
-  year = {2021},
-  location = {Hague, Netherlands},
-  pages = {228-235},
-  publisher = {Association for Computing Machinery, New York, NY, United States}
-  }
+@inproceedings{kwarteng2021misogynoir,
+  title={Misogynoir: public online response towards self-reported misogynoir},
+  author={Kwarteng, Joseph and Perfumi, Serena Coppolino and Farrell, Tracie and Fernandez, Miriam},
+  booktitle={Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining},
+  pages={228--235},
+  year={2021}
+}
