@@ -3,7 +3,7 @@ Repository for Kwarteng, Joseph; Coppolino Perfumi, Serena; Farrell, Tracie and 
 
 WARNING: The data and lexicons contain content that is racist, sexist and offensive in many other ways.
 
-You can find our labeled data in the data directory and the lexicons in the lexicons directory 
+You can find our labelled data in the data directory and the lexicons in the lexicons directory 
 
 ***Please cite our paper in any published work that uses any of these resources.***
 ~~~
