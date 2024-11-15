@@ -6,6 +6,8 @@ WARNING: The data and lexicons contain content that is racist, sexist and offens
 You can find our labelled data in the data directory and the lexicons in the lexicons directory 
 
 ***Please cite our paper in any published work that uses any of these resources.***
+
+***This paper received the Best Paper Award at the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM '21).***
 ~~~
 @inproceedings{kwarteng2021misogynoir,
   title={Misogynoir: public online response towards self-reported misogynoir},
